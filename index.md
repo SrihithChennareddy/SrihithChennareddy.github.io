@@ -15,5 +15,3 @@ I am an AI Researcher and Student at Bellevue High School, focused on leveraging
 * **Grand Medalist**, Washington State Science Fair.
 * **Top 15 Finalist**, CMIMC (Carnegie Mellon Informatics and Mathematics Competition).
 
-### 📺 CherryOrbit
-I document my educational journey and technical deep dives on my YouTube channel, [CherryOrbit](https://www.youtube.com/@CherryOrbit).
