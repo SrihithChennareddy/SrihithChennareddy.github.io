@@ -4,7 +4,7 @@ title: About Me
 ---
 
 # Srihith Chennareddy
-I am an AI Researcher and Student at Bellevue High School, focused on leveraging **Vision Transformers (ViT)** and multimodal data to solve real-world challenges in agriculture and medicine.
+I am a budding AI Researcher and a raising senior at Bellevue High School.
 
 ### 🔍 Current Research
 * **CropViT:** Developing a climate-aware Vision Transformer model for crop yield prediction (IEEE CPS submission). Achieving an $R^2$ of 0.81 in corn yield forecasting by integrating historical weather and satellite imagery.
