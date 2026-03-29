@@ -1,0 +1,29 @@
+# Site Settings
+title: Srihith Chennareddy
+email: srihith@example.com # Replace with preferred email
+description: AI Researcher | Vision Transformers | Distributed Systems
+url: "https://SrihithChennareddy.github.io"
+baseurl: ""
+
+# Author Info (Side Bar)
+author:
+  name: Srihith Chennareddy
+  avatar: "/assets/images/profile.jpg" # He should upload a photo here
+  bio: "AI Researcher specializing in Vision Transformers and agricultural technology."
+  location: "Seattle, WA"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/srihith-chennareddy/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/SrihithChennareddy"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@CherryOrbit"
+
+# Build Settings
+theme: jekyll-theme-minimal # Or "academicpages" for a more complex look
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
